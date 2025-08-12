@@ -1,0 +1,9 @@
+*.exe
+*.obj
+*.tlog
+*.log
+*.user
+x64/
+ipch/
+.vs/
+
